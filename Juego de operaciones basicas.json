@@ -1,0 +1,150 @@
+[
+    {
+        "categoria": "Sumas y restas",
+        "pregunta": "¿Cuanto es 13 + 24?",
+        "respuesta": "37",
+        "incorrecta1": "27",
+        "incorrecta2": "39",
+        "incorrecta3": "48"
+        
+    },
+    {
+        "categoria": "Sumas y restas",
+        "pregunta": "En la operacion 15 + ⬜ = 28, ¿Que numero falta para que se complete la suma?",
+        "respuesta": "13",
+        "incorrecta1": "6",
+        "incorrecta2": "11",
+        "incorrecta3": "10"
+        
+    },
+    {
+        "categoria": "Sumas y restas",
+        "pregunta": "¿Cuanto es 502 - 104?",
+        "respuesta": "398",
+        "incorrecta1": "606",
+        "incorrecta2": "494",
+        "incorrecta3": "406"
+        
+    }, 
+    {
+        "categoria": "Sumas y restas",
+        "pregunta": "En la operacion 16 + ⬜- 15 = 5, ¿Que numero falta para que se complete la operacion?",
+        "respuesta": "4",
+        "incorrecta1": "1",
+        "incorrecta2": "11",
+        "incorrecta3": "20"
+        
+    },
+    {
+        "categoria": "Sumas y restas",
+        "pregunta": "¿Cuanto es 502 - 104 + 16?",
+        "respuesta": "414",
+        "incorrecta1": "416",
+        "incorrecta2": "112",
+        "incorrecta3": "312"
+        
+    },
+    {
+        "categoria": "Multiplicaciones",
+        "pregunta": "¿Cuanto es 3 x 8?",
+        "respuesta": "24",
+        "incorrecta1": "11",
+        "incorrecta2": "21",
+        "incorrecta3": "28"
+        
+    },
+    {
+        "categoria": "Multiplicacion",
+        "pregunta": "En la operacion 7 x ⬜ = 56, ¿Que numero falta para que se complete la operacion?",
+        "respuesta": "8",
+        "incorrecta1": "15",
+        "incorrecta2": "7",
+        "incorrecta3": "6"
+        
+    },
+    {
+        "categoria": "Multiplicaciones",
+        "pregunta": "¿Cuanto es 9 x 6?",
+        "respuesta": "54",
+        "incorrecta1": "15",
+        "incorrecta2": "51",
+        "incorrecta3": "69"   
+        
+    },
+    {
+        "categoria": "Multiplicacion",
+        "pregunta": "En la operacion 5 x ⬜ = 65, ¿Que numero falta para que se complete la operacion?",
+        "respuesta": "13",
+        "incorrecta1": "7",
+        "incorrecta2": "12",
+        "incorrecta3": "15"
+        
+    },
+    {
+        "categoria": "Multiplicaciones",
+        "pregunta": "¿Cuanto es 12 x 6?",
+        "respuesta": "72",
+        "incorrecta1": "18",
+        "incorrecta2": "60",
+        "incorrecta3": "69"   
+        
+    },
+    {
+        "categoria": "Divisiones",
+        "pregunta": "Un hombre tiene 63 rosas y debe entregar ramos iguales a 7 personas ¿Cuantas rosas tiene cada ramo?",
+        "respuesta": "9",
+        "incorrecta1": "7",
+        "incorrecta2": "5",
+        "incorrecta3": "1"   
+        
+    },
+    {
+        "categoria": "Divisiones",
+        "pregunta": "Rocio compra un paquete d 200 dulces para los 20 estudiantes ¿Cuantos dulces son por estudiante?",
+        "respuesta": "10",
+        "incorrecta1": "12",
+        "incorrecta2": "2",
+        "incorrecta3": "20"   
+        
+    },
+    {
+        "categoria": "Divisiones",
+        "pregunta": "¿Cual es el resultado de 0/546?",
+        "respuesta": "0",
+        "incorrecta1": "546",
+        "incorrecta2": "223",
+        "incorrecta3": "35"   
+        
+    },
+    {
+        "categoria": "Divisiones",
+        "pregunta": "Si tengo 108 paletas para repartir en 9 niños ¿Cuantas paletas corresponden a cada niño?",
+        "respuesta": "12",
+        "incorrecta1": "9",
+        "incorrecta2": "108",
+        "incorrecta3": "20"   
+        
+    },
+    {
+        "categoria": "Divisiones",
+        "pregunta": "¿Que nuemero dividido por 8 da 7?",
+        "respuesta": "56",
+        "incorrecta1": "63",
+        "incorrecta2": "72",
+        "incorrecta3": "88"   
+        
+    }
+
+
+
+
+
+
+
+
+
+
+    
+
+
+]
